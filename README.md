@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **vad99lord@gmail.com**
 
-- 📄 Know about my [experiences](Vadim%20Trufanov%20CV.pdf)
-
 - ⚡ Fun fact **No fun facts for now**
 
 <h3 align="left">Connect with me:</h3>
